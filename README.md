@@ -1,5 +1,5 @@
 # geocoding_utils
-### simple library with utility functions to use ARCGIS functions 
+### simple library with utility functions to use ARCGIS developer functions 
 
 #### How to use: 
 * Setup an ARCGIS online paid account	
