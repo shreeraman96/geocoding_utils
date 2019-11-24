@@ -1,0 +1,775 @@
+Tree ID;Genus;Species;Variety;Cultivar;Plant Month;Plant Year;BLOCK;LOT;Parcel Address;Month of Update;Year of Last Update;Plant Installer
+468;Quercus;rubra;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+495;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+194;Gleditsia;triacanthos;;;4;2017;11404;18;126 NEWARK AVE.;3;2019;Jersey City Division of Architecture
+177;Cornus;kousa;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+179;Cornus;kousa;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+738;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+742;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+247;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+240;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+250;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+274;Magnolia;virginiana;;;0;0;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+348;Platanus;occidentalis;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+355;Platanus;occidentalis;;;6;2016;19803;18;976 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+365;Pseudotsuga;menziesii;;;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+325;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+208;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+224;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+71;Acer;rubrum;;Sunvalley;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+85;Acer;rubrum;;Sunvalley;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+38;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+15;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+44;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+62;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+466;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+450;Quercus;bicolor;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+386;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+402;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+383;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+516;Quercus;bicolor;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+105;Acer;rubrum;;Sunvalley;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+715;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+720;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+651;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+624;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+580;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+533;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+541;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+29;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+101;Acer;rubrum;;Sunvalley;6;2016;19803;11;948 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+115;Acer;rubrum;;Sunvalley;6;2016;19803;20;980 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+121;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+174;Cornus;kousa;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+214;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+239;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+245;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+249;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+252;Juniperus;chinensis;;Torulosa;4;2017;11603;42;110 FIRST ST.;3;2019;Jersey City Division of Architecture
+256;Juniperus;virginiana;;Hillspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+306;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+321;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+350;Platanus;occidentalis;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+366;Pseudotsuga;menziesii;;;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+370;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+389;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+403;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+458;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+459;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+469;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+472;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+591;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+623;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+654;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+677;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+697;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+719;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+727;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+734;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+760;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+763;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+522;Quercus;bicolor;;;6;2016;19803;15;968 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+490;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+158;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+131;Amelanchier;canadensis;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+128;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+175;Cornus;kousa;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+264;Liquidambar;styraciflua;;;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+316;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+352;Platanus;occidentalis;;;6;2016;19803;14;966 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+75;Acer;rubrum;;Sunvalley;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+50;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+418;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+437;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+439;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+419;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+532;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+196;Gleditsia;triacanthos;inermis;Shademaster;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+188;Gleditsia;triacanthos;inermis;Halka;4;2017;11603;40;105 SECOND ST.;3;2019;Jersey City Division of Architecture
+192;Gleditsia;triacanthos;inermis;Halka;4;2017;11610;1;111 FIRST ST.;3;2019;Jersey City Division of Architecture
+280;Malus;;;Harvest Gold;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+297;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+301;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+275;Magnolia;virginiana;;;0;0;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+462;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+454;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+486;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+566;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+589;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+662;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+647;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+635;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+637;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+767;Zelkova;serrata;;Green Vase;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+724;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+725;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+61;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+68;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+91;Acer;rubrum;;Sunvalley;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+117;Acer;rubrum;;Sunvalley;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+244;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+246;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+282;Malus;;;Harvest Gold;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+330;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+345;Platanus;occidentalis;;;6;2016;19803;10;946 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+400;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+408;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+446;Quercus;bicolor;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+453;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+467;Quercus;rubra;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+479;Quercus;rubra;;;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+493;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+538;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+576;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+577;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+586;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+616;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+632;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+640;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+655;Thuja;;;Green Giant;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+660;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+701;Tilia;cordata;;Greenspire;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+708;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+750;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+759;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+17;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+510;Quercus;bicolor;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+489;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+232;Juniperus;chinensis;;Torulosa;4;2017;11603;40;105 SECOND ST.;3;2019;Jersey City Division of Architecture
+263;Liquidambar;styraciflua;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+351;Platanus;occidentalis;;;6;2016;19803;13;964 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+357;Platanus;occidentalis;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+359;Prunus;sargentii;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+460;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+470;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+463;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+471;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+427;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+169;Cercis;canadensis;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+209;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+217;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+205;Gymnocladus;dioicus;;;9;2017;3003;1;300 OGDEN AVE.;3;2019;Jersey City Division of Architecture
+161;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+70;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+311;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+410;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+588;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+601;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+673;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+638;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+620;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+764;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+756;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+769;Zelkova;serrata;;Green Vase;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+737;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+705;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+711;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+723;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+700;Tilia;cordata;;Greenspire;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+500;Quercus;palustrus;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+498;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+156;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+185;Franklinia;alatamaha;;;4;2016;11006;26;388 FIRST ST;3;2019;Jersey City Division of Architecture
+730;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+733;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+241;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+354;Platanus;occidentalis;;;6;2016;19803;18;976 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+362;Prunus;serotina;;;4;2016;11006;26;388 FIRST ST;3;2019;Jersey City Division of Architecture
+286;Malus;;;Harvest Gold;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+298;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+308;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+225;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+231;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+73;Acer;rubrum;;Sunvalley;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+92;Acer;rubrum;;Sunvalley;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+52;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+1;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+443;Quercus;bicolor;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+415;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+434;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+378;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+390;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+405;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+144;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+72;Acer;rubrum;;Sunvalley;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+119;Acer;rubrum;;Sunvalley;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+154;Betula;nigra;;Cully;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+714;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+721;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+713;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+594;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+612;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+617;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+553;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+768;Zelkova;serrata;;Green Vase;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+7;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+11;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+13;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+28;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+54;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+104;Acer;rubrum;;Sunvalley;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+122;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+151;Betula;nigra;;Cully;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+153;Betula;nigra;;Cully;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+170;Cercis;canadensis;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+189;Gleditsia;triacanthos;inermis;Halka;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+212;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+293;Nyssa;sylvatica;;;4;2017;12904;1;280 GROVE STREET;3;2019;Jersey City Division of Architecture
+299;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+310;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+319;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+328;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+397;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+442;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+451;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+503;Quercus;bicolor;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+507;Quercus;bicolor;;;6;2016;19803;9;944 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+513;Quercus;bicolor;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+595;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+618;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+627;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+644;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+663;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+672;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+702;Tilia;cordata;;Greenspire;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+704;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+743;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+46;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+21;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+501;Quercus;bicolor;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+130;Amelanchier;arborea;;Grandiflora;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+150;Betula;nigra;;Cully;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+129;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+103;Acer;rubrum;;Sunvalley;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+78;Acer;rubrum;;Sunvalley;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+94;Acer;rubrum;;Sunvalley;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+98;Acer;rubrum;;Sunvalley;6;2016;19803;9;944 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+248;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+229;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+347;Platanus;occidentalis;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+327;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+381;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+399;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+47;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+53;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+59;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+428;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+420;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+424;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+544;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+530;Quercus;bicolor;;;6;2016;19803;20;980 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+221;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+219;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+476;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+464;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+481;Quercus;rubra;;;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+546;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+554;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+599;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+675;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+696;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+639;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+636;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+625;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+8;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+14;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+22;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+25;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+114;Acer;rubrum;;Sunvalley;6;2016;19803;19;978 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+126;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+143;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+164;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+242;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+270;Liquidambar;styraciflua;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+285;Malus;;;Harvest Gold;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+290;Nyssa;sylvatica;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+307;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+314;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+364;Pseudotsuga;menziesii;;;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+436;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+448;Quercus;bicolor;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+519;Quercus;bicolor;;;6;2016;19803;13;964 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+523;Quercus;bicolor;;;6;2016;19803;16;970 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+529;Quercus;bicolor;;;6;2016;19803;20;980 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+593;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+629;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+646;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+669;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+717;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+746;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+19;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+108;Acer;rubrum;;Sunvalley;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+90;Acer;rubrum;;Sunvalley;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+125;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+300;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+303;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+346;Platanus;occidentalis;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+342;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+369;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+449;Quercus;bicolor;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+431;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+199;Gleditsia;triacanthos;inermis;Shademaster;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+172;Cornus;kousa;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+227;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+163;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+149;Betula;nigra;;Cully;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+132;Amelanchier;canadensis;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+80;Acer;rubrum;;October Glory;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+42;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+55;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+334;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+394;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+534;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+531;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+569;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+603;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+658;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+615;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+706;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+726;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+203;Gleditsia;triacanthos;inermis;Shademaster;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+754;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+735;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+740;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+736;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+237;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+238;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+267;Liquidambar;styraciflua;;;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+272;Magnolia;virginiana;;;0;0;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+339;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+304;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+233;Juniperus;chinensis;;Torulosa;4;2017;11603;40;105 SECOND ST.;3;2019;Jersey City Division of Architecture
+218;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+40;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+33;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+9;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+429;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+375;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+83;Acer;rubrum;;Red Sunset;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+109;Acer;rubrum;;Sunvalley;6;2016;19803;13;964 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+707;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+694;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+699;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+661;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+643;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+628;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+561;Taxodium;disticum;;;10;2017;29202;1;1630 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+575;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+555;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+521;Quercus;bicolor;;;6;2016;19803;14;966 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+525;Quercus;bicolor;;;6;2016;19803;18;976 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+772;Zelkova;serrata;;;11;2015;5202;29;109 OGDEN AVE.;3;2019;Jersey City Division of Architecture
+66;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+95;Acer;rubrum;;Sunvalley;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+123;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+201;Gleditsia;triacanthos;inermis;Shademaster;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+204;Gleditsia;triacanthos;;;4;2016;11006;25;386 FIRST ST;3;2019;Jersey City Division of Architecture
+265;Liquidambar;styraciflua;;;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+278;Magnolia;virginiana;;;0;0;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+336;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+377;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+392;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+396;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+406;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+423;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+432;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+445;Quercus;bicolor;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+478;Quercus;rubra;;;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+482;Quercus;rubra;;;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+485;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+524;Quercus;bicolor;;;6;2016;19803;17;972 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+536;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+545;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+547;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+578;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+581;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+590;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+645;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+648;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+653;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+682;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+698;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+770;Zelkova;serrata;;Green Vase;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+35;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+39;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+518;Quercus;bicolor;;;6;2016;19803;13;964 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+140;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+167;Cercis;canadensis;;Forest Pansy;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+137;Amelanchier;canadensis;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+102;Acer;rubrum;;Sunvalley;6;2016;19803;11;948 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+116;Acer;rubrum;;Sunvalley;6;2016;19803;20;980 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+77;Acer;rubrum;;Sunvalley;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+89;Acer;rubrum;;Sunvalley;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+87;Acer;rubrum;;Sunvalley;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+230;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+268;Liquidambar;styraciflua;;;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+363;Pseudotsuga;menziesii;;;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+388;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+438;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+210;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+183;Cornus;florida;;;4;2016;11006;26;388 FIRST ST;3;2019;Jersey City Division of Architecture
+302;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+294;Nyssa;sylvatica;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+273;Magnolia;virginiana;;;0;0;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+457;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+441;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+549;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+619;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+692;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+679;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+689;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+100;Acer;rubrum;;Sunvalley;6;2016;19803;10;946 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+111;Acer;rubrum;;Sunvalley;6;2016;19803;15;968 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+124;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+258;Juniperus;virginiana;;Hillspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+260;Juniperus;virginiana;;Hillspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+283;Malus;;;Harvest Gold;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+289;Nyssa;sylvatica;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+292;Nyssa;sylvatica;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+296;Nyssa;sylvatica;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+305;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+313;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+382;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+398;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+417;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+484;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+492;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+502;Quercus;bicolor;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+560;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+583;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+585;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+600;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+610;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+621;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+631;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+634;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+667;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+670;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+691;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+722;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+744;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+758;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+110;Acer;rubrum;;Sunvalley;6;2016;19803;13;964 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+118;Acer;rubrum;;Sunvalley;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+96;Acer;rubrum;;Sunvalley;6;2016;19803;9;944 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+508;Quercus;bicolor;;;6;2016;19803;10;946 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+251;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+243;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+259;Juniperus;virginiana;;Hillspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+341;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+376;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+374;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+373;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+550;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+197;Gleditsia;triacanthos;inermis;Shademaster;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+168;Cercis;canadensis;;Forest Pansy;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+180;Cornus;florida;;;4;2016;11006;24;384 FIRST ST;3;2019;Jersey City Division of Architecture
+228;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+207;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+220;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+223;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+142;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+134;Amelanchier;canadensis;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+74;Acer;rubrum;;Sunvalley;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+64;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+385;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+387;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+528;Quercus;bicolor;;;6;2016;19803;19;978 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+562;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+732;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+751;Tilia;cordata;;Greenspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+753;Tilia;cordata;;Greenspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+678;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+487;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+483;Quercus;rubra;;;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+138;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+141;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+195;Gleditsia;triacanthos;;;4;2017;11404;27;146 NEWARK AVE.;3;2019;Jersey City Division of Architecture
+731;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+748;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+353;Platanus;occidentalis;;;6;2016;19803;15;968 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+343;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+360;Prunus;sargentii;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+295;Nyssa;sylvatica;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+288;Nyssa;sylvatica;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+287;Nyssa;sylvatica;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+215;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+222;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+99;Acer;rubrum;;Sunvalley;6;2016;19803;10;946 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+86;Acer;rubrum;;Sunvalley;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+60;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+452;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+444;Quercus;bicolor;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+416;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+413;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+372;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+391;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+200;Gleditsia;triacanthos;inermis;Shademaster;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+112;Acer;rubrum;;Sunvalley;6;2016;19803;16;970 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+671;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+690;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+659;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+650;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+582;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+611;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+517;Quercus;bicolor;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+542;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+559;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+773;Zelkova;serrata;;Village Green;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+762;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+761;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+6;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+26;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+82;Acer;rubrum;;October Glory;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+127;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+152;Betula;nigra;;Cully;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+159;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+165;Cercis;canadensis;;Ace of Hearts;11;2015;5202;29;109 OGDEN AVE.;3;2019;Jersey City Division of Architecture
+166;Cercis;canadensis;;Forest Pansy;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+187;Franklinia;alatamaha;;;4;2016;11006;26;388 FIRST ST;3;2019;Jersey City Division of Architecture
+193;Gleditsia;triacanthos;inermis;Halka;4;2017;11610;1;111 FIRST ST.;3;2019;Jersey City Division of Architecture
+234;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+315;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+411;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+456;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+551;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+557;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+563;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+565;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+572;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+602;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+642;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+693;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+728;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+36;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+12;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+37;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+41;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+43;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+506;Quercus;bicolor;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+496;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+255;Juniperus;virginiana;;Hillspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+349;Platanus;occidentalis;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+76;Acer;rubrum;;Sunvalley;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+543;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+186;Franklinia;alatamaha;;;4;2016;11006;26;388 FIRST ST;3;2019;Jersey City Division of Architecture
+281;Malus;;;Harvest Gold;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+465;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+480;Quercus;rubra;;;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+568;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+622;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+666;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+680;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+683;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+657;Thuja;;;Green Giant;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+747;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+2;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+16;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+32;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+56;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+57;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+148;Betula;nigra;;Cully;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+184;Franklinia;alatamaha;;;4;2016;11006;24;384 FIRST ST;3;2019;Jersey City Division of Architecture
+198;Gleditsia;triacanthos;inermis;Shademaster;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+235;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+254;Juniperus;virginiana;;Hillspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+318;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+412;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+422;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+435;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+447;Quercus;bicolor;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+505;Quercus;bicolor;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+526;Quercus;bicolor;;;6;2016;19803;18;976 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+574;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+606;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+609;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+668;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+674;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+684;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+686;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+709;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+745;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+757;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+10;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+20;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+27;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+34;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+23;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+107;Acer;rubrum;;Sunvalley;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+113;Acer;rubrum;;Sunvalley;6;2016;19803;18;976 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+97;Acer;rubrum;;Sunvalley;6;2016;19803;9;944 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+120;Amelanchier;canadensis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+514;Quercus;bicolor;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+488;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+430;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+171;Cladrastis;kentukea;;;4;2016;11006;25;386 FIRST ST;3;2019;Jersey City Division of Architecture
+182;Cornus;florida;;;4;2016;11006;26;388 FIRST ST;3;2019;Jersey City Division of Architecture
+178;Cornus;kousa;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+155;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+133;Amelanchier;canadensis;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+136;Amelanchier;canadensis;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+51;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+326;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+323;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+331;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+340;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+329;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+312;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+393;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+409;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+401;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+407;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+527;Quercus;bicolor;;;6;2016;19803;19;978 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+604;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+579;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+676;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+641;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+633;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+729;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+739;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+190;Gleditsia;triacanthos;inermis;Halka;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+474;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+473;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+157;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+160;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+269;Liquidambar;styraciflua;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+361;Prunus;sargentii;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+317;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+333;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+145;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+206;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+93;Acer;rubrum;;Sunvalley;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+48;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+79;Acer;rubrum;;;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+65;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+395;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+147;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+106;Acer;rubrum;;Sunvalley;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+652;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+626;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+630;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+587;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+613;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+552;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+3;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+18;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+24;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+45;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+135;Amelanchier;canadensis;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+176;Cornus;kousa;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+284;Malus;;;Harvest Gold;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+324;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+344;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+356;Platanus;occidentalis;;;0;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+371;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+384;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+425;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+455;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+461;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+477;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+509;Quercus;bicolor;;;6;2016;19803;10;946 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+520;Quercus;bicolor;;;6;2016;19803;13;964 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+535;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+540;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+564;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+584;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+592;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+596;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+605;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+656;Thuja;;;Green Giant;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+685;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+712;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+749;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+771;Zelkova;serrata;;Green Vase;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+511;Quercus;bicolor;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+491;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+494;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+81;Acer;rubrum;;October Glory;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+236;Juniperus;chinensis;;Torulosa;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+226;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+257;Juniperus;virginiana;;Hillspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+266;Liquidambar;styraciflua;;;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+332;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+58;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+67;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+63;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+69;Acer;rubrum;;Sunvalley;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+426;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+414;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+216;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+213;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+309;Platanus;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+291;Nyssa;sylvatica;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+571;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+598;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+597;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+614;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+573;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+710;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+688;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+665;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+649;Thuja;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+774;Zelkova;serrata;;Village Green;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+741;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+752;Tilia;cordata;;Greenspire;6;2016;19803;5;WOODWARD ST;3;2019;Jersey City Redevelopment Agency
+5;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+31;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+146;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+162;Cercis;canadensis;;Forest Pansy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+173;Cornus;kousa;;;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+191;Gleditsia;triacanthos;inermis;Halka;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+253;Juniperus;chinensis;;Torulosa;4;2017;11603;42;110 FIRST ST.;3;2019;Jersey City Division of Architecture
+271;Magnolia;virginiana;;;0;0;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+276;Magnolia;virginiana;;;0;0;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+277;Magnolia;virginiana;;;0;0;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+320;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+337;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+338;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+358;Platanus;occidentalis;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+367;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+368;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+404;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+433;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+440;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+504;Quercus;bicolor;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+556;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+567;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+570;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+664;Thuja;occidentalis;;Smaragd;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+687;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+703;Tilia;cordata;;Greenspire;6;2016;19803;4;65 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+718;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+755;Ulmus;americana;;Princeton;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+765;Zelkova;serrata;;Green Vase;4;2017;11603;40;105 SECOND ST.;3;2019;Jersey City Division of Architecture
+30;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+4;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+512;Quercus;bicolor;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+515;Quercus;bicolor;;;6;2016;19803;12;960-958 GARFIELD AVE;3;2019;Jersey City Redevelopment Agency
+497;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+499;Quercus;rubra;;;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+279;Malus;;;Harvest Gold;11;2016;12106;11;298 ACADEMY ST.;3;2019;Jersey City Division of Architecture
+262;Liquidambar;styraciflua;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+261;Liquidambar;styraciflua;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+475;Quercus;bicolor;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+421;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+548;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+558;Quercus;bicolor;;;6;2016;19803;21;INSIDE GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+537;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+539;Quercus;bicolor;;;6;2016;18901;1;990 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+181;Cornus;florida;;;4;2016;11006;25;386 FIRST ST;3;2019;Jersey City Division of Architecture
+202;Gleditsia;triacanthos;inermis;Shademaster;11;2015;4802;2;201 CENTRAL AVE.;3;2019;Jersey City Division of Architecture
+211;Juniperus;virginiana;;Hillspire;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+139;Amelancier;laevis;;Princess Diana;8;2015;16302;40;2565 KENNEDY BLVD.;3;2019;Jersey City Division of Architecture
+84;Acer;rubrum;;Sunvalley;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+88;Acer;rubrum;;Sunvalley;6;2016;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+49;Acer;saccharum;;Legacy;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+322;Platanus;occidentalis;;;6;2016;18901;2;1000 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+335;Platanus;occidentalis;;;6;2016;19803;8;942 GARFIELD AVE.;3;2019;Jersey City Redevelopment Agency
+380;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+379;Quercus;rubra;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+608;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+607;Thuja;occidentalis;;;6;2016;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+766;Zelkova;serrata;;Green Vase;4;2017;11603;41;108 FIRST ST.;3;2019;Jersey City Division of Architecture
+716;Tilia;cordata;;Greenspire;4;2014;19803;3;75 WOODWARD ST.;3;2019;Jersey City Redevelopment Agency
+695;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency
+681;Tilia;cordata;;Greenspire;4;2014;18901;18;1 BERRY ROAD;3;2019;Jersey City Redevelopment Agency

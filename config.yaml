@@ -1,0 +1,8 @@
+arcgis:
+    user_id: <arcgis online User ID>
+    password: <ARCGIS online Password>
+oauthUrl: https://www.arcgis.com/sharing/rest/oauth2/token
+arcAPICredentials:
+    client_id: <client ID of registered application>
+    client_secret: <client secret of registered application>
+    grant_type: client_credentials
