@@ -17,6 +17,7 @@
 
 Windows platform:
 * use this link: https://git-scm.com/download/win
+
 Mac or Ubuntu: 
 
 ```sudo apt install git-all```
