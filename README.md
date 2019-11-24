@@ -12,13 +12,26 @@
 		
 	
 ### To setup the environment 
+
+**To install Git**
+
+Windows platform:
+* use this link: https://git-scm.com/download/win
+Mac or Ubuntu: 
+
+```sudo apt install git-all```
+or 
+* use this link: https://git-scm.com/download/mac
 	
 using conda: 
 	
 ```
   conda env create -f environment.yml
 ```
-	
+**To clone the repository to your local**
+```
+  git clone https://github.com/shreeraman96/geocoding_utils.git
+```
 **Before using the library configure the "config.yaml" file**
 	
 - replace ARCGIS online user id and password in the corresponding placeholder
